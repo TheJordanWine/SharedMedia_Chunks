@@ -1,0 +1,34 @@
+local LSM = LibStub("LibSharedMedia-3.0") 
+
+-- ----- 
+-- BACKGROUND 
+-- ----- 
+
+-- ----- 
+--  BORDER 
+-- ---- 
+
+-- -----
+--   FONT
+-- -----
+
+-- -----
+--   SOUND
+-- -----
+LSM:Register("sound", "|cFF5156EDbite|r", [[Interface\Addons\SharedMedia_Chunks\sound\bite.ogg]])
+LSM:Register("sound", "|cFF5156EDkick|r", [[Interface\Addons\SharedMedia_Chunks\sound\kick.ogg]])
+LSM:Register("sound", "|cFF5156EDmangle|r", [[Interface\Addons\SharedMedia_Chunks\sound\mangle.ogg]])
+LSM:Register("sound", "|cFF5156EDstop|r", [[Interface\Addons\SharedMedia_Chunks\sound\stop.ogg]])
+LSM:Register("sound", "|cFF5156EDswarm|r", [[Interface\Addons\SharedMedia_Chunks\sound\swarm.ogg]])
+LSM:Register("sound", "|cFF5156EDkite|r", [[Interface\Addons\SharedMedia_Chunks\sound\kite.ogg]])
+LSM:Register("sound", "|cFF5156EDtrinket|r", [[Interface\Addons\SharedMedia_Chunks\sound\trinket.ogg]])
+LSM:Register("sound", "|cFF5156EDpotion|r", [[Interface\Addons\SharedMedia_Chunks\sound\potion.ogg]])
+LSM:Register("sound", "|cFF5156EDmoonfire|r", [[Interface\Addons\SharedMedia_Chunks\sound\moonfire.ogg]])
+LSM:Register("sound", "|cFF5156EDready_kick|r", [[Interface\Addons\SharedMedia_Chunks\sound\ready_kick.ogg]])
+LSM:Register("sound", "|cFF5156EDready_maim|r", [[Interface\Addons\SharedMedia_Chunks\sound\ready_maim.ogg]])
+LSM:Register("sound", "|cFF5156EDready_roar|r", [[Interface\Addons\SharedMedia_Chunks\sound\ready_roar.ogg]])
+LSM:Register("sound", "|cFF5156EDready_typhoon|r", [[Interface\Addons\SharedMedia_Chunks\sound\ready_typhoon.ogg]])
+
+-- -----
+--   STATUSBAR
+-- -----
