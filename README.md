@@ -3,4 +3,4 @@
 This is a sound pack for World of Warcraft. It registers sounds to the wow sound library so those sounds can be used in weakauras and addons.
 It focuses on sounds for druids to alert when a spell is ready or should likely be uses.
 
-Each sound uses the Julie (US) Text To Speech (TTS) voice provided by https://ttsdemo.com and recorded using Audacity.
+Each sound uses the Julie (US) Text To Speech (TTS) voice provided by https://ttsdemo.com and was recorded using Audacity.
