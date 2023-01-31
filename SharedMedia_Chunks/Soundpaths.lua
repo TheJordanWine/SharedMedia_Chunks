@@ -28,6 +28,9 @@ LSM:Register("sound", "|cFF5156EDready_kick|r", [[Interface\Addons\SharedMedia_C
 LSM:Register("sound", "|cFF5156EDready_maim|r", [[Interface\Addons\SharedMedia_Chunks\sound\ready_maim.ogg]])
 LSM:Register("sound", "|cFF5156EDready_roar|r", [[Interface\Addons\SharedMedia_Chunks\sound\ready_roar.ogg]])
 LSM:Register("sound", "|cFF5156EDready_typhoon|r", [[Interface\Addons\SharedMedia_Chunks\sound\ready_typhoon.ogg]])
+LSM:Register("sound", "|cFF5156EDstarfire|r", [[Interface\Addons\SharedMedia_Chunks\sound\starfire.ogg]])
+LSM:Register("sound", "|cFF5156EDstarfall|r", [[Interface\Addons\SharedMedia_Chunks\sound\starfall.ogg]])
+LSM:Register("sound", "|cFF5156EDstarsurge|r", [[Interface\Addons\SharedMedia_Chunks\sound\starsurge.ogg]])
 
 -- -----
 --   STATUSBAR
