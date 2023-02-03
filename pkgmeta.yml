@@ -12,10 +12,10 @@ externals:
         url: https://repos.wowace.com/wow/ace3/trunk/LibStub
         tag: latest
 
-move-folders: 
-    SharedMedia_Chunks/SharedMedia_Chunks: SharedMedia_Chunks
+#move-folders: 
+#    SharedMedia_Chunks/SharedMedia_Chunks: SharedMedia_Chunks
 
-ignore:	
+ignore:
     - READEME.md
     - SharedMedia_Chunks.zip
     
