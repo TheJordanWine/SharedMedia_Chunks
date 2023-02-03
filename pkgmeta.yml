@@ -20,3 +20,6 @@ ignore:
     - SharedMedia_Chunks.zip
     
 license-output: MIT-LICENSE.txt
+
+manual-changelog:
+    filename: changelog.txt
