@@ -20,4 +20,4 @@ ignore:
 	- READEME.md
 	- SharedMedia_Chunks.zip
     
- license-output: MIT-LICENSE.txt
+license-output: MIT-LICENSE.txt
