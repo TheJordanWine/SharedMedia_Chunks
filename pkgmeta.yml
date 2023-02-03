@@ -13,8 +13,7 @@ externals:
         tag: latest
 
 move-folders: 
-    SharedMedia_Chunks/sound: sound
-    SharedMedia_Chunks/libs: libs
+    SharedMedia_Chunks/SharedMedia_Chunks: SharedMedia_Chunks
 
 ignore:	
     - READEME.md
