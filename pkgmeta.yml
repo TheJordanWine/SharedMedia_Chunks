@@ -4,13 +4,13 @@ enable-nolib-creation: no
 externals:    
 	SharedMedia_Chunks/libs/CallbackHandler-1.0:
 		url: https://repos.wowace.com/wow/ace3/trunk/CallbackHandler-1.0
-        tag: latest
+                tag: latest
 	SharedMedia_Chunks/libs/LibSharedMedia-3.0:
 		url: https://repos.wowace.com/wow/libsharedmedia-3-0/trunk/LibSharedMedia-3.0
-        tag: latest
+                tag: latest
 	SharedMedia_Chunks/libs/LibStub:
 		url: https://repos.wowace.com/wow/ace3/trunk/LibStub
-        tag: latest
+                tag: latest
 		
 move-folders: 
 	SharedMedia_Chunks/sound: sound
@@ -20,4 +20,4 @@ ignore:
 	- READEME.md
 	- SharedMedia_Chunks.zip
     
- license-output: MIT-LICENSE.txt
+license-output: MIT-LICENSE.txt
