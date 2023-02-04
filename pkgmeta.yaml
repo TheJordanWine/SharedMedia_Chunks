@@ -16,7 +16,6 @@ ignore:
     - READEME.md
     - MIT-LICENSE.txt
     - changelog.txt
-    - pkgmeta.yml
     
 license-output: MIT-LICENSE.txt
 
