@@ -20,4 +20,4 @@ ignore:
 license-output: MIT-LICENSE.txt
 
 manual-changelog:
-    filename: DHUD/internal_changelog.txt
+    filename: changelog.txt
