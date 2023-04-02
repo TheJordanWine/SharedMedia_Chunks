@@ -36,6 +36,7 @@ LSM:Register("sound", "|cFF5156EDstellarflare|r", [[Interface\Addons\SharedMedia
 LSM:Register("sound", "|cFF5156EDsunfire|r", [[Interface\Addons\SharedMedia_Chunks\sound\sunfire.ogg]])
 LSM:Register("sound", "|cFF5156EDmushroom|r", [[Interface\Addons\SharedMedia_Chunks\sound\mushroom.ogg]])
 LSM:Register("sound", "|cFF5156EDumbral|r", [[Interface\Addons\SharedMedia_Chunks\sound\umbral.ogg]])
+LSM:Register("sound", "|cFF5156EDmaul|r", [[Interface\Addons\SharedMedia_Chunks\sound\maul.ogg]])
 
 -- -----
 --   STATUSBAR
