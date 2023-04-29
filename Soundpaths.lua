@@ -28,6 +28,8 @@ LSM:Register("sound", "|cFF5156EDready_kick|r", [[Interface\Addons\SharedMedia_C
 LSM:Register("sound", "|cFF5156EDready_maim|r", [[Interface\Addons\SharedMedia_Chunks\sound\ready_maim.ogg]])
 LSM:Register("sound", "|cFF5156EDready_roar|r", [[Interface\Addons\SharedMedia_Chunks\sound\ready_roar.ogg]])
 LSM:Register("sound", "|cFF5156EDready_typhoon|r", [[Interface\Addons\SharedMedia_Chunks\sound\ready_typhoon.ogg]])
+LSM:Register("sound", "|cFF5156EDready_knock|r", [[Interface\Addons\SharedMedia_Chunks\sound\ready_knock.ogg]])
+LSM:Register("sound", "|cFF5156EDready_stun|r", [[Interface\Addons\SharedMedia_Chunks\sound\ready_stun.ogg]])
 LSM:Register("sound", "|cFF5156EDstarfire|r", [[Interface\Addons\SharedMedia_Chunks\sound\starfire.ogg]])
 LSM:Register("sound", "|cFF5156EDstarfall|r", [[Interface\Addons\SharedMedia_Chunks\sound\starfall.ogg]])
 LSM:Register("sound", "|cFF5156EDstarsurge|r", [[Interface\Addons\SharedMedia_Chunks\sound\starsurge.ogg]])
@@ -37,6 +39,8 @@ LSM:Register("sound", "|cFF5156EDsunfire|r", [[Interface\Addons\SharedMedia_Chun
 LSM:Register("sound", "|cFF5156EDmushroom|r", [[Interface\Addons\SharedMedia_Chunks\sound\mushroom.ogg]])
 LSM:Register("sound", "|cFF5156EDumbral|r", [[Interface\Addons\SharedMedia_Chunks\sound\umbral.ogg]])
 LSM:Register("sound", "|cFF5156EDmaul|r", [[Interface\Addons\SharedMedia_Chunks\sound\maul.ogg]])
+LSM:Register("sound", "|cFF5156EDpurge|r", [[Interface\Addons\SharedMedia_Chunks\sound\purge.ogg]])
+
 
 -- -----
 --   STATUSBAR
