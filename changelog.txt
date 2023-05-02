@@ -1,1 +1,2 @@
-Removed low quality Derp sounds
+Added some shaman sounds and more generics.
+Updated version for 10.1
