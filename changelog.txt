@@ -1,2 +1,1 @@
-Added some shaman sounds and more generics.
-Updated version for 10.1
+Added nourish, innervate, and efflo.
