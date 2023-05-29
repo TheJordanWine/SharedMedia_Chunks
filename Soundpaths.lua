@@ -40,6 +40,9 @@ LSM:Register("sound", "|cFF5156EDmushroom|r", [[Interface\Addons\SharedMedia_Chu
 LSM:Register("sound", "|cFF5156EDumbral|r", [[Interface\Addons\SharedMedia_Chunks\sound\umbral.ogg]])
 LSM:Register("sound", "|cFF5156EDmaul|r", [[Interface\Addons\SharedMedia_Chunks\sound\maul.ogg]])
 LSM:Register("sound", "|cFF5156EDpurge|r", [[Interface\Addons\SharedMedia_Chunks\sound\purge.ogg]])
+LSM:Register("sound", "|cFF5156EDefflo|r", [[Interface\Addons\SharedMedia_Chunks\sound\efflo.ogg]])
+LSM:Register("sound", "|cFF5156EDnourish|r", [[Interface\Addons\SharedMedia_Chunks\sound\nourish.ogg]])
+LSM:Register("sound", "|cFF5156EDinnervate|r", [[Interface\Addons\SharedMedia_Chunks\sound\innervate.ogg]])
 
 
 -- -----
